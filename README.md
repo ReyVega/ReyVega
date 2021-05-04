@@ -7,18 +7,13 @@
 <a href="https://www.facebook.com/reynaldo.vegamenchaca"><img src="https://img.shields.io/badge/facebook-%2314354C.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
 </p>
 
-<div class="stats">
-<div class ="overview">
 
-![](https://raw.githubusercontent.com/ReyVega/github-stats-transparent/output/generated/overview.svg)
-
-</div>
-<div class="languages">
-
-![](https://raw.githubusercontent.com/ReyVega/github-stats-transparent/output/generated/languages.svg)
-
-</div>
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/ReyVega/github-stats-transparent/output/generated/overview.svg"
+     alt="overview"/>
+<img src="https://raw.githubusercontent.com/ReyVega/github-stats-transparent/output/generated/languages.svg"
+     alt="languages"/>
+</p>
 
 ---
 <p align="center">
