@@ -5,7 +5,7 @@
 <a href="https://www.facebook.com/reynaldo.vegamenchaca"><img src="https://img.shields.io/badge/facebook-%2314354C.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
 </p>
 
-<a>
+<a align="center">
 
 ![](https://raw.githubusercontent.com/ReyVega/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/ReyVega/github-stats-transparent/output/generated/languages.svg)
@@ -14,7 +14,7 @@
 
 ---
 
-<table>
+<table border="0">
   <tr>
     <td align="center" width="96">
       <a href="https://devdocs.io/cpp/">
