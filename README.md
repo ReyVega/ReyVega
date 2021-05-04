@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="./styles.css" />
+
 <p align="center">
 <a href="https://www.linkedin.com/in/reynaldo-vega-menchaca-1343501b4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://www.instagram.com/rey_vega_10/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
@@ -5,15 +7,21 @@
 <a href="https://www.facebook.com/reynaldo.vegamenchaca"><img src="https://img.shields.io/badge/facebook-%2314354C.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
 </p>
 
-<a align="center">
+<div class="stats">
+<div class ="overview">
 
 ![](https://raw.githubusercontent.com/ReyVega/github-stats-transparent/output/generated/overview.svg)
+
+</div>
+<div class="languages">
+
 ![](https://raw.githubusercontent.com/ReyVega/github-stats-transparent/output/generated/languages.svg)
 
-</a>
+</div>
+</div>
 
 ---
-
+<p align="center">
 <table border="0">
   <tr>
     <td align="center" width="96">
@@ -128,3 +136,4 @@
     </td>
   </tr>
 </table>
+</p>
