@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./images/banner.png" alt="banner"/>
+<img src="./images/banner.gif" alt="banner" height="auto" width="100%"/>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/reynaldo-vega-menchaca-1343501b4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
