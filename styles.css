@@ -1,0 +1,20 @@
+tbody,
+thead,
+thead th,
+tr.even,
+tr.odd {
+  border: 0;
+} 
+.stats {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.overview {
+    grid-column: 1;
+    text-align: center;
+}
+.languages {
+    grid-column: 2;
+    text-align: center;
+}
+
