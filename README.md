@@ -1,6 +1,7 @@
 <p align="center">
 <img src="./images/banner.gif" alt="banner" height="auto" width="100%"/>
 </p>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/reynaldo-vega-menchaca-1343501b4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35 target="_blank"></a>
 <a href="https://www.instagram.com/rey_vega_10/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=35 target="_blank"></a> 
@@ -13,13 +14,16 @@
 <h2 align="left">GitHub stats</h2>
 
 <p align="center">
-<img width="45%" src="https://raw.githubusercontent.com/ReyVega/github-stats-transparent/output/generated/overview.svg"
+<img width="48%" src="https://raw.githubusercontent.com/ReyVega/github-stats-transparent/output/generated/overview.svg"
      alt="overview"/>
-<img width="45%" src="https://raw.githubusercontent.com/ReyVega/github-stats-transparent/output/generated/languages.svg"
+<img width="48%" src="https://raw.githubusercontent.com/ReyVega/github-stats-transparent/output/generated/languages.svg"
      alt="languages"/>
 </p>
 
 ---
+
+<h2 align="left">Favorite tools and languages</h2>
+
 <p align="center">
 <table border="0">
   <tr>
