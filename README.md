@@ -120,10 +120,10 @@
       <br>Unity
     </td>
      <td align="center" width="96">
-      <a href="https://help.ubuntu.com/">
-        <img src="./images/Ubuntu.svg" width="48" height="48" alt="Ubuntu" />
+      <a href="https://wiki.archlinux.org/">
+        <img src="./images/arch.png" width="48" height="48" alt="Arch" />
       </a>
-      <br>Ubuntu
+      <br>Arch Linux
     </td>
     <td align="center" width="96">
       <a href="https://git-scm.com/doc">
