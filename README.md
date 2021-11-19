@@ -123,7 +123,7 @@
       <a href="https://wiki.archlinux.org/">
         <img src="./images/arch.png" width="48" height="48" alt="Arch" />
       </a>
-      <br>Arch Linux
+      <br>Arch
     </td>
     <td align="center" width="96">
       <a href="https://git-scm.com/doc">
