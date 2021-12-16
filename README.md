@@ -4,9 +4,9 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/reynaldo-vega-menchaca-1343501b4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35 target="_blank"></a>
-<a href="https://www.instagram.com/rey_vega_10/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=35 target="_blank"></a> 
-<a href="https://www.facebook.com/reynaldo.vegamenchaca"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=35 target="_blank"></a>
+<a href="https://www.instagram.com/rey_vega_10/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=35 target="_blank"></a>
 <a href="https://www.facebook.com/reynaldo.vegamenchaca"><img src="https://img.shields.io/badge/facebook-%2314354C.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=35 target="_blank"></a>
+<a href="https://reynaldovega.netlify.app/"><img src="https://img.shields.io/badge/portfolio-DD4B39.svg?&style=for-the-badge&logo=react&logoColor=white" height=35 target="_blank" ></a>
 </p>
 
 <br>
@@ -28,6 +28,12 @@
 <table border="0">
   <tr>
     <td align="center" width="96">
+      <a href="https://docs.python.org/3/">
+        <img src="./images/Python.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
       <a href="https://devdocs.io/cpp/">
         <img src="./images/C++.svg" width="48" height="48" alt="C++" />
       </a>
@@ -39,7 +45,7 @@
       </a>
       <br>Java
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="96">
       <a href="https://devdocs.io/c/" >
         <img src="./images/C.svg" width="48" height="48" alt="C" />
       </a>
@@ -52,24 +58,18 @@
       <br>Go
     </td>
     <td align="center" width="96">
-      <a href="https://docs.python.org/3/">
-        <img src="./images/Python.svg" width="48" height="48" alt="Python" />
+      <a href="https://devdocs.io/bash/">
+        <img src="./images/bash.png" width="48" height="48" alt="bash" />
       </a>
-      <br>Python
+      <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-        <img src="./images/CSharp.svg" width="48" height="48" alt="C#" />
+      <a href="https://www.typescriptlang.org/docs/" >
+        <img src="./images/typescript.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>C#
+      <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="https://www.r-project.org/other-docs.html" >
-        <img src="./images/R.png" width="48" height="48" alt="R" />
-      </a>
-      <br>R
-    </td>
-     <td align="center" width="96">
       <a href="https://devdocs.io/javascript/" >
         <img src="./images/JavaScript.svg" width="48" height="48" alt="JavaScript" />
       </a>
@@ -77,9 +77,9 @@
     </td>
     <td align="center" width="96">
       <a href="https://es.reactjs.org/docs/getting-started.html">
-        <img src="./images/React.svg" width="48" height="48" alt="React"/>
+        <img src="./images/React.svg" width="48" height="48" alt="React.js"/>
       </a>
-      <br>React
+      <br>React.js
     </td>
   </tr>
   <tr>
