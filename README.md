@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/reynaldo-vega-menchaca-1343501b4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35 target="_blank"></a>
+<a href="https://www.linkedin.com/in/rey-vega-1343501b4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35 target="_blank"></a>
 <a href="https://www.instagram.com/rey_vega_10/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=35 target="_blank"></a>
 <a href="https://www.facebook.com/reynaldo.vegamenchaca"><img src="https://img.shields.io/badge/facebook-%2314354C.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=35 target="_blank"></a>
 <a href="https://reyvega.netlify.app/"><img src="https://img.shields.io/badge/portfolio-DD4B39.svg?&style=for-the-badge&logo=react&logoColor=white" height=35 target="_blank" ></a>
@@ -11,7 +11,7 @@
 
 <br>
 
-<h2 align="left">GitHub stats</h2>
+## GitHub stats
 
 <p align="center">
 <img width="48%" src="https://raw.githubusercontent.com/ReyVega/github-stats-transparent/output/generated/overview.svg"
@@ -22,7 +22,7 @@
 
 ---
 
-<h2 align="left">Favorite tools and languages</h2>
+## Favorite tools and languages
 
 <p align="center">
 <table border="0">
